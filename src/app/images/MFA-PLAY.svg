@@ -1,0 +1,14 @@
+<svg id="Drawing_Layer" data-name="Drawing Layer" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 111.06 123.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ed2024;
+        stroke: #ed2024;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="1 1.7 1 121.7 109 61.7 1 1.7"/>
+</svg>
